@@ -1,0 +1,5 @@
+# Versions not pinned — install from venv or verify with pip freeze
+openai
+langsmith
+pydantic
+typing-extensions
